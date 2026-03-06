@@ -10,7 +10,7 @@ A full-stack web application for patient registration, appointment scheduling, a
 
 ## Live Demo
 
-🔗 [medicare-hub.vercel.app](https://medicare-hub.vercel.app) *(replace with your Vercel URL)*
+🔗 https://hospital-management-fclx.vercel.app/registration
 
 ---
 
