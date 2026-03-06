@@ -10,7 +10,7 @@ A full-stack web application for patient registration, appointment scheduling, a
 
 ## Live Demo
 
-🔗 [medicare-hub.netlify.app](https://medicare-hub.netlify.app) *(replace with your Netlify URL)*
+🔗 [medicare-hub.vercel.app](https://medicare-hub.vercel.app) *(replace with your Vercel URL)*
 
 ---
 
@@ -47,7 +47,7 @@ A read-only view of all appointments with summary stats, filterable by provider 
 | Data Fetching | TanStack React Query v5 |
 | API | Next.js Route Handlers (server-side mocks) |
 | Testing | Jest + Testing Library |
-| Deployment | Netlify |
+| Deployment | Vercel |
 
 ---
 
